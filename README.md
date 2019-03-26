@@ -20,3 +20,7 @@ The model uses Glove pre-trained embeddings. Download glove.6B.300d.txt into 'gl
 Five-fold cross-validation is conducted. The model is run on different folds using the following and the average is taken across five folds:
 
 * python train_lstm_cnn.py data/drug_var_cross_sents/fold_0/ ./training_config.json
+
+### References
+
+[Cross-Sentence N-ary Relation Extraction with Graph LSTMs] (https://transacl.org/ojs/index.php/tacl/article/view/1028)
