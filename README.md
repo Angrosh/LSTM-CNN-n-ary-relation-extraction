@@ -23,4 +23,4 @@ Five-fold cross-validation is conducted. The model is run on different folds usi
 
 ### References
 
-[Cross-Sentence N-ary Relation Extraction with Graph LSTMs] (https://transacl.org/ojs/index.php/tacl/article/view/1028)
+* [Cross-Sentence N-ary Relation Extraction with Graph LSTMs](https://transacl.org/ojs/index.php/tacl/article/view/1028)
