@@ -13,7 +13,7 @@ This paper uses [dataset](https://drive.google.com/drive/folders/1Jgw6A08nh-4umC
 
 ### Usage
 
-The original dataset is preprocessed for the LSTM-CNN model and is provided in data.zip. Unzip data.zip to obtain data folder consisting preprocessed data for different relations.
+The original dataset is preprocessed for the LSTM-CNN model and is provided in data.zip. Unzip data.zip to obtain 'data' folder consisting preprocessed data for different relations.
 
 The model uses Glove pre-trained embeddings. Download glove.6B.300d.txt into 'glove' floder.
 
